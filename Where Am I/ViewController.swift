@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  Where Am I
 //
-//  Created by Rob Percival on 13/03/2015.
-//  Copyright (c) 2015 Appfish. All rights reserved.
+//  Created by Los Lengua de Mulo de Hialeah on 08/16/2016.
+//  Copyright (c) 2016 Los Lengua de Mulo de Hialeah. All rights reserved.
 //
 
 import UIKit
